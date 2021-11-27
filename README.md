@@ -46,10 +46,25 @@
 + Y: 현재 라인을 복사
 + p: 현재위치 다음에 붙여넣기
 
+![image](https://user-images.githubusercontent.com/94293365/143720297-ab88e3b1-b9b2-4c36-9cef-e8feaf2157ee.png)
+
++ cw: 다음 단어를 삭제후 입력모드로 들어감
+
 ### 해결영상
 
+***해결영상1***
+
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/94293365/143720043-c2637e31-d497-4649-9037-acce8c387739.gif)
+
+***해결영상2***
+
 
 ---
 
 ### 문제 4
+
+![image](https://user-images.githubusercontent.com/94293365/143720072-e97b8790-1df7-42a7-8d4c-e28f1f9ffa83.png)
+![image](https://user-images.githubusercontent.com/94293365/143720077-7630b261-6a47-4421-93f0-4104bafccbf5.png)
+
+### 입력키
+
