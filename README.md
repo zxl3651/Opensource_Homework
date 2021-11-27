@@ -58,8 +58,7 @@
 
 ***해결영상2***
 
-
----
+---![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/94293365/143720423-889d5fa3-bdc1-4865-bba0-e3bbea8c03b1.gif)
 
 ### 문제 4
 
