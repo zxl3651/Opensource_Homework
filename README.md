@@ -18,7 +18,6 @@
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/94293365/143691206-5d3cec9a-a76e-4d35-8051-b6cfb2d530b1.gif)
 
-
 ---
 
 ### 문제 2
@@ -30,4 +29,14 @@
 + %s/str1\|str2/replace/g : str1과 str2를 replace로 치환함
 
 ### 해결영상
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/94293365/143694324-4fcfc75b-b7ec-49af-9ec4-91b5712a5ce3.gif)
+
+---
+
+### 문제 3
+![image](https://user-images.githubusercontent.com/94293365/143694720-4e8e641f-38f2-4728-bcf4-80b1fe3034a5.png)
+![image](https://user-images.githubusercontent.com/94293365/143694802-ad051cb7-5fff-4cc9-9a96-6974e1117f17.png)
+
+### 입력키
 
