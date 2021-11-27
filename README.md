@@ -40,3 +40,16 @@
 
 ### 입력키
 
+![image](https://user-images.githubusercontent.com/94293365/143719945-4eeae7fb-7b50-434e-8b9b-6bdc7c81db32.png)
+
++ M: 현재 화면 기준 중간으로 이동
++ Y: 현재 라인을 복사
++ p: 현재위치 다음에 붙여넣기
+
+### 해결영상
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/94293365/143720043-c2637e31-d497-4649-9037-acce8c387739.gif)
+
+---
+
+### 문제 4
