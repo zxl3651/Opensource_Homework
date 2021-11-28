@@ -58,7 +58,9 @@
 
 ***해결영상2***
 
----![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/94293365/143720423-889d5fa3-bdc1-4865-bba0-e3bbea8c03b1.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/94293365/143720423-889d5fa3-bdc1-4865-bba0-e3bbea8c03b1.gif)
+
+---
 
 ### 문제 4
 
@@ -67,3 +69,58 @@
 
 ### 입력키
 
+#### 1번째 시도
+
+![image](https://user-images.githubusercontent.com/94293365/143767733-52a552b3-2845-4fda-9d59-9ff275d929a8.png)
+
+#### 2번째 시도
+
+![image](https://user-images.githubusercontent.com/94293365/143767753-5f406e9e-61d6-490e-8d9a-63697799a1be.png)
+
+#### 3번째 시도
+
+![image](https://user-images.githubusercontent.com/94293365/143767764-346b17c3-a41a-4ab4-bae9-2f73ac3f25b3.png)
+
++ $ %s/str/replace : str을 replace로 바꿈
++ $ ns/str/replace/g : n번째 라인의 str을 모두 replace로 바꿈
++ Ctrl + v : 비주얼 블록 모드로 들어감
++ (비주얼블록모드 상태일때) d : 삭제
+
+### 해결영상
+
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/94293365/143768665-8af875dd-e9ae-4348-b72d-e58333ad06cd.gif)
+
+---
+
+### 문제 5
+
+![image](https://user-images.githubusercontent.com/94293365/143768713-be06a3f3-d209-4c53-9783-35f7acef317a.png)
+![image](https://user-images.githubusercontent.com/94293365/143768718-231fb13f-3537-4b15-8310-8ccaa57b3c16.png)
+
+### 입력키
+
+#### 1번째 시도
+
+![image](https://user-images.githubusercontent.com/94293365/143769075-7aa9ae14-032b-42dd-b79c-d7233fc41549.png)
+
++ (number)G : number 행으로 이동
++ <End> : $키와 동일함, 라인 끝으로 이동
++ 여기에선 그냥 입력해봄
+
+#### 2번째 시도
+
+![image](https://user-images.githubusercontent.com/94293365/143769096-98e7b740-cbf4-4b89-bcc5-5d6ed9fd9cb4.png)
+
++ yw : 앞에 한 단어를 복사함 (제일 긴 student_id를 치지않기 위해 복사함)
++ p : 붙여넣기 (복사한걸 붙여넣음)
++ a : 다음칸부터 insert 모드로 시작함
+  
+#### 3번째 시도
+  
+  ![image](https://user-images.githubusercontent.com/94293365/143769211-f02fb653-de5f-4d0a-a6a1-6281f035b66f.png)
+
+  + 10G로 마지막 열로 이동하던걸 그냥 G로 고쳐서 횟수를 1 줄임
+  
+  ### 해결영상
+  
+  ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/94293365/143769402-f5d05c48-b60c-41bd-bdaf-c0972bfe28ec.gif)
