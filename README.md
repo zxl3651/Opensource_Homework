@@ -82,7 +82,7 @@
 ![image](https://user-images.githubusercontent.com/94293365/143767764-346b17c3-a41a-4ab4-bae9-2f73ac3f25b3.png)
 
 + $ %s/str/replace : str을 replace로 바꿈
-+ $ ns/str/replace/g : n번째 라인의 str을 모두 replace로 바꿈
++ $ (number)s/str/replace/g : number라인의 str을 모두 replace로 바꿈
 + Ctrl + v : 비주얼 블록 모드로 들어감
 + (비주얼블록모드 상태일때) d : 삭제
 
